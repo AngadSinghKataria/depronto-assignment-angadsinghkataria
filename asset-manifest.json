@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/depronto-assignment-angadsinghkataria/static/css/main.afcfc098.css",
+    "main.js": "/depronto-assignment-angadsinghkataria/static/js/main.28819b5f.js",
+    "static/js/787.144f7d85.chunk.js": "/depronto-assignment-angadsinghkataria/static/js/787.144f7d85.chunk.js",
+    "static/media/PrizeCertificate.png": "/depronto-assignment-angadsinghkataria/static/media/PrizeCertificate.e96d116e4546c58b2038.png",
+    "static/media/PrizeGlory.png": "/depronto-assignment-angadsinghkataria/static/media/PrizeGlory.e234ea8676f44db48c5d.png",
+    "static/media/DeathShield5.png": "/depronto-assignment-angadsinghkataria/static/media/DeathShield5.b1482d8e1fc9eea3efd0.png",
+    "static/media/PrizeValour.png": "/depronto-assignment-angadsinghkataria/static/media/PrizeValour.191021a0ccf72d3a3fba.png",
+    "static/media/DeathStar.png": "/depronto-assignment-angadsinghkataria/static/media/DeathStar.082da8237b8858c97ff3.png",
+    "static/media/DeathShield4.jpeg": "/depronto-assignment-angadsinghkataria/static/media/DeathShield4.e04b8d292625f9c188a6.jpeg",
+    "static/media/PrizeMention.png": "/depronto-assignment-angadsinghkataria/static/media/PrizeMention.d8bd1bfe96d02f7f90c8.png",
+    "static/media/mainlogo.png": "/depronto-assignment-angadsinghkataria/static/media/mainlogo.874efd64a021d3f5c508.png",
+    "static/media/portfoliologo.png": "/depronto-assignment-angadsinghkataria/static/media/portfoliologo.52229fd81c5e76face1c.png",
+    "static/media/PrizeTeamwork.jpg": "/depronto-assignment-angadsinghkataria/static/media/PrizeTeamwork.1dfe542f11e46022fef5.jpg",
+    "static/media/DeathShield1.jpeg": "/depronto-assignment-angadsinghkataria/static/media/DeathShield1.49bcddf44526da9514d5.jpeg",
+    "static/media/DeathShield3.jpeg": "/depronto-assignment-angadsinghkataria/static/media/DeathShield3.4094c1152f026ee9cb16.jpeg",
+    "static/media/DeathShield2.jpeg": "/depronto-assignment-angadsinghkataria/static/media/DeathShield2.ea11626c42266bec222b.jpeg",
+    "index.html": "/depronto-assignment-angadsinghkataria/index.html",
+    "main.afcfc098.css.map": "/depronto-assignment-angadsinghkataria/static/css/main.afcfc098.css.map",
+    "main.28819b5f.js.map": "/depronto-assignment-angadsinghkataria/static/js/main.28819b5f.js.map",
+    "787.144f7d85.chunk.js.map": "/depronto-assignment-angadsinghkataria/static/js/787.144f7d85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afcfc098.css",
+    "static/js/main.28819b5f.js"
+  ]
+}
